@@ -1,0 +1,5 @@
+C:\Users\1\source\repos\TestProjectC++\x64\Release\TestProjectC++.vcxproj.AssemblyReference.cache
+C:\Users\1\source\repos\TestProjectC++\x64\Release\TestProjectC++.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\1\source\repos\TestProjectC++\x64\Release\TestProjectC++.exe
+C:\Users\1\source\repos\TestProjectC++\x64\Release\TestProjectC.Test.resources
+C:\Users\1\source\repos\TestProjectC++\x64\Release\TestProjectC++.vcxproj.GenerateResource.cache

@@ -1,0 +1,8 @@
+﻿  Test.cpp
+C:\Users\1\source\repos\TestProjectC++\Test.h(269,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\1\source\repos\TestProjectC++\Test.h(269,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\1\source\repos\TestProjectC++\Test.h(270,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\1\source\repos\TestProjectC++\Test.h(271,65): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\1\source\repos\TestProjectC++\Test.h(271,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Test.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  TestProjectC++.vcxproj -> C:\Users\1\source\repos\TestProjectC++\x64\Release\TestProjectC++.exe

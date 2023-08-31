@@ -1,0 +1,5 @@
+﻿  Test.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  Test.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  TestProjectC++.vcxproj -> C:\Users\1\source\repos\TestProjectC++\x64\Debug\TestProjectC++.exe
